@@ -27,17 +27,16 @@ Day-to-day, this means owning our lifecycle and retention strategy, designing se
 | Area | Tools |
 |---|---|
 | Languages | Python, R, SQL |
-| Data Platforms | BigQuery, Looker |
-| ML / Stats | scikit-learn, XGBoost, causalml, tidymodels |
+| Data Platforms | BigQuery, MySQL, Looker |
 | MarTech | Salesforce, Insider, Amplitude, GA4 |
-| Other | Git, GitHub Actions |
+| Other | Git, n8n |
 
 ---
 
 ## Beyond the Code
 
-- **Specialty Coffee** — Precision brewer and pour-over nerd
-- **Outdoor Sports** — Hiking, cycling, anything outside
+- **Specialty Coffee** — I'm a pour-over nerd
+- **Outdoor Sports** — Hiking, running, anything outside
 - **Chess** — Enthusiastic, but not particularly skilled
 
 ---
