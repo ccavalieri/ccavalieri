@@ -1,6 +1,6 @@
 # Hi, I'm Carlos 👋
 
-Computer Science Master's student at Unicamp and Partner & Shareholder at Méliuz. I'm based Seattle, WA.
+Computer Science Master's student at Unicamp and Partner & Shareholder at Méliuz. I'm based in Seattle, WA.
 
 I research and work at the intersection of **Machine Learning**, **Operations Research**, and **Causal Inference** to build systems that don't just find patterns, but drive better decisions.
 
